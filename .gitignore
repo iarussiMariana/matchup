@@ -1,0 +1,47 @@
+# Installed dependencies (restore with npm ci in the corresponding directory)
+node_modules/
+
+# Local configuration, credentials and participant data
+.env
+.env.*
+!.env.example
+!.env.sample
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+*.jks
+*.keystore
+/server/uploads/
+
+# Generated web output and local deployment state
+/www/
+/.wrangler/
+
+# Test runner output (keep tests and curated documentation evidence)
+/test-results*/
+/material-*-results/
+/playwright-report/
+/blob-report/
+/coverage/
+
+# Android caches and compiled output; keep Gradle wrapper and sources
+/android/**/build/
+/android/.gradle/
+/android/.kotlin/
+/android/local.properties
+
+# Diagnostics and temporary files
+*.log
+*.tmp
+*.temp
+*.hprof
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+~$*
+
+# Named release APK/ZIP files and academic reports are intentionally preserved.

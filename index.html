@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#087e8b">
+  <meta name="description" content="MatchUp — Conexões acadêmicas que funcionam. Encontre apoio nas suas disciplinas e ofereça monitoria no seu campus.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="MatchUp">
+  <meta name="mobile-web-app-capable" content="yes">
+  <title>MatchUp — Conexões acadêmicas que funcionam</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="assets/brand/favicon-32.png">
+  <link rel="stylesheet" href="mentorship.css">
+  <link rel="stylesheet" href="mentorship-academic.css">
+  <link rel="stylesheet" href="mentorship-catalog.css">
+  <link rel="stylesheet" href="pwa.css">
+  <link rel="stylesheet" href="startup.css">
+  <script src="startup.js" defer></script>
+  <script src="vendor/supabase.js" defer></script>
+  <script src="mentorship-catalog.js" defer></script>
+  <script src="mentorship-product.js" defer></script>
+  <script src="mentorship.js" defer></script>
+  <script src="mentorship-calendar.js" defer></script>
+  <script src="mentorship-academic.js" defer></script>
+  <script src="pwa.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Ir para o conteúdo</a>
+  <div id="app">
+    <header class="topbar"><div class="brand"><img class="brand-mark" src="assets/brand/matchup-symbol.png" alt="" width="40" height="40">MatchUp<span class="sr-only"> — Conexões acadêmicas que funcionam</span></div><span class="top-label">entre estudantes</span></header>
+    <main id="main" tabindex="-1"><div class="loading" role="status"><span class="spinner" aria-hidden="true"></span>Preparando seu espaço de aprendizado…</div></main>
+  </div>
+  <dialog id="startupIntro" class="startup-screen" aria-label="Abertura do MatchUp" aria-describedby="startupCaption">
+    <div class="startup-actions"><button id="skipStartup" type="button" autofocus>Pular abertura</button></div>
+    <video id="startupVideo" muted playsinline preload="none" poster="assets/brand/matchup-logo.png" disablepictureinpicture aria-hidden="true" tabindex="-1"></video>
+    <p id="startupCaption" class="startup-caption">MatchUp — Conexões acadêmicas que funcionam.</p>
+  </dialog>
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+  <noscript>Ative o JavaScript para entrar no MatchUp.</noscript>
+</body>
+</html>

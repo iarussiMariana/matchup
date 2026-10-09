@@ -1,0 +1,4641 @@
+{
+  "institution": "Centro Universitário Facens (UniFacens)",
+  "checked_at": "2026-10-02",
+  "source_url": "https://facens.br/cursos/graduacao/",
+  "courses": [
+    {
+      "id": "odontologia-presencial",
+      "name": "Odontologia",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/odontologia/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/odontologia/",
+      "curriculum_version": null,
+      "curriculum_status": "partial",
+      "subjects": [
+        {
+          "name": "Mecanismos Celulares e Moleculares I",
+          "semester": 1
+        },
+        {
+          "name": "Introdução a Odontologia",
+          "semester": 1
+        },
+        {
+          "name": "Estrutura e Função Humana",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Aplicada à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Desenvolvimento Humano e Social Aplicado à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Mecanismos de defesa e doença I",
+          "semester": 2
+        },
+        {
+          "name": "Mecanismos Celulares e Moleculares II",
+          "semester": 2
+        },
+        {
+          "name": "Sistema Estomatognático",
+          "semester": 2
+        },
+        {
+          "name": "Práticas Assistênciais Odontológicas I",
+          "semester": 2
+        },
+        {
+          "name": "Produção e Interpretação de conhecimento em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Educação na Assistência e na Formação em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Doenças biofilme dependentes",
+          "semester": 3
+        },
+        {
+          "name": "Práticas Assistênciais Odontológicas II",
+          "semester": 3
+        },
+        {
+          "name": "Diagnóstico Oral",
+          "semester": 3
+        },
+        {
+          "name": "Saúde Coletiva",
+          "semester": 3
+        },
+        {
+          "name": "Mecanismos de defesa e doença II",
+          "semester": 3
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prevenção em Saúde Comunitária",
+          "semester": 3
+        },
+        {
+          "name": "Práticas Assistênciais Odontológicas III",
+          "semester": 4
+        },
+        {
+          "name": "Imaginologia",
+          "semester": 4
+        },
+        {
+          "name": "Saúde Bucal Coletiva",
+          "semester": 4
+        },
+        {
+          "name": "Terapêutica Medicamentosa",
+          "semester": 4
+        },
+        {
+          "name": "Optativa",
+          "semester": 4
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prática em Saúde Comunitária",
+          "semester": 4
+        },
+        {
+          "name": "Clínica do Adolescente e Adulto I",
+          "semester": 5
+        },
+        {
+          "name": "Práticas Assistenciais em Cirurgia Oral",
+          "semester": 5
+        },
+        {
+          "name": "Práticas Assistênciais Odontológicas IV",
+          "semester": 5
+        },
+        {
+          "name": "Práticas Assistenciais em Reabilitação Oral I",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Epidemiologia e Bioestatística",
+          "semester": 5
+        },
+        {
+          "name": "Clínica do Adolescente e Adulto II",
+          "semester": 6
+        },
+        {
+          "name": "Praticas Assistênciais em Odontologia Infantil",
+          "semester": 6
+        },
+        {
+          "name": "Praticas Assistênciais em em Odontologia Hospitalar",
+          "semester": 6
+        },
+        {
+          "name": "Práticas Assistenciais em Reabilitação Oral II",
+          "semester": 6
+        },
+        {
+          "name": "Gestão e Inovação em Saúde",
+          "semester": 6
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde Aplicada",
+          "semester": 6
+        },
+        {
+          "name": "Clínica do Adulto e Idoso I",
+          "semester": 7
+        },
+        {
+          "name": "Clínica Infantil I",
+          "semester": 7
+        },
+        {
+          "name": "Estágio Supervisionado I",
+          "semester": 7
+        },
+        {
+          "name": "Clínica do Adulto e Idoso II",
+          "semester": 8
+        },
+        {
+          "name": "Clínica Infantil II",
+          "semester": 8
+        },
+        {
+          "name": "Estágio Supervisionado II",
+          "semester": 8
+        },
+        {
+          "name": "Estágio Supervisionado III",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Gestão de Carreira em Saúde",
+          "semester": 9
+        },
+        {
+          "name": "Praticas Assistênciais em odontologia para pacientes com necessidades especiais",
+          "semester": 9
+        },
+        {
+          "name": "Estágio Supervisionado IV",
+          "semester": 10
+        },
+        {
+          "name": "Clínica de Estética em Odontologia",
+          "semester": 10
+        },
+        {
+          "name": "Sustentabilidade e Meio Ambiente Aplicado à Saúde",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "biomedicina-presencial",
+      "name": "Biomedicina",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/biomedicina/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/biomedicina/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Comunicação Aplicada à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Desenvolvimento Humano e Social Aplicado à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Estrutura e Função Humana",
+          "semester": 1
+        },
+        {
+          "name": "Mecanismos Celulares e Moleculares",
+          "semester": 1
+        },
+        {
+          "name": "Instrumentação Biomédica",
+          "semester": 1
+        },
+        {
+          "name": "Produção e Interpretação de Conhecimento em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Educação na Assistência e na Formação em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Imunopatologia e Sistemas Orgânicos",
+          "semester": 2
+        },
+        {
+          "name": "Metabolismo e Regulação Orgânica",
+          "semester": 2
+        },
+        {
+          "name": "Genética e Citogenética",
+          "semester": 2
+        },
+        {
+          "name": "Microbiologia",
+          "semester": 2
+        },
+        {
+          "name": "Saúde Coletiva",
+          "semester": 3
+        },
+        {
+          "name": "Sustentabilidade e Meio Ambiente Aplicado à Saúde",
+          "semester": 3
+        },
+        {
+          "name": "Relação Patógeno-Hospedeiro",
+          "semester": 3
+        },
+        {
+          "name": "Terapêutica Medicamentosa",
+          "semester": 3
+        },
+        {
+          "name": "Reprodução Assistida",
+          "semester": 3
+        },
+        {
+          "name": "Diagnóstico de Infecções Bacterianas e Fúngicas",
+          "semester": 3
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prevenção em Saúde Comunitária",
+          "semester": 3
+        },
+        {
+          "name": "Optativa",
+          "semester": 4
+        },
+        {
+          "name": "Biotecnologia e Bioinformática",
+          "semester": 4
+        },
+        {
+          "name": "Diagnóstico Imunológico e Parasitológico",
+          "semester": 4
+        },
+        {
+          "name": "Hematologia, Hemoterapia e Imunohematologia",
+          "semester": 4
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prática em Saúde Comunitária",
+          "semester": 4
+        },
+        {
+          "name": "Epidemiologia e Bioestatística",
+          "semester": 5
+        },
+        {
+          "name": "Gestão e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Bioquímica Clínica, Líquidos corporais e Urinálise",
+          "semester": 5
+        },
+        {
+          "name": "Citologia Oncótica",
+          "semester": 5
+        },
+        {
+          "name": "Análises Toxicológicas e Ambientais",
+          "semester": 5
+        },
+        {
+          "name": "Estética em Biomedicina",
+          "semester": 5
+        },
+        {
+          "name": "Gestão da Qualidade",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 6
+        },
+        {
+          "name": "Medicina Nuclear e Diagnóstico por Imagem",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva de Ênfase Biomedicina",
+          "semester": 6
+        },
+        {
+          "name": "Laboratório Clínico",
+          "semester": 6
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde Aplicada",
+          "semester": 6
+        },
+        {
+          "name": "Estágio Supervisionado I",
+          "semester": 6
+        },
+        {
+          "name": "Tópicos Contemporâneos em Saúde",
+          "semester": 7
+        },
+        {
+          "name": "Estágio Supervisionado II",
+          "semester": 7
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 7
+        },
+        {
+          "name": "Gestão de Carreira em Saúde",
+          "semester": 8
+        },
+        {
+          "name": "Estágio Supervisionado III",
+          "semester": 8
+        }
+      ]
+    },
+    {
+      "id": "psicologia-presencial",
+      "name": "Psicologia",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/psicologia/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/psicologia/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Comunicação Aplicada à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Desenvolvimento Humano e Social Aplicado à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Sistema Nervoso",
+          "semester": 1
+        },
+        {
+          "name": "Psicologia: Ciência e Profissão",
+          "semester": 1
+        },
+        {
+          "name": "Processos Psicológicos Básicos",
+          "semester": 1
+        },
+        {
+          "name": "História do Pensamento Psicológico",
+          "semester": 1
+        },
+        {
+          "name": "Educação na Assistência e na Formação em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Produção e Interpretação de Conhecimento em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Bases Biológicas do Comportamento",
+          "semester": 2
+        },
+        {
+          "name": "Psicologia do Desenvolvimento da Criança e do Adolescente",
+          "semester": 2
+        },
+        {
+          "name": "Psicologia e Práticas Inclusivas",
+          "semester": 2
+        },
+        {
+          "name": "Psicologia Social",
+          "semester": 2
+        },
+        {
+          "name": "Sustentabilidade e Meio Ambiente Aplicado à Saúde",
+          "semester": 3
+        },
+        {
+          "name": "Saúde Coletiva",
+          "semester": 3
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prevenção em Saúde Comunitária",
+          "semester": 3
+        },
+        {
+          "name": "Estágio Básico I: Habilidades do Psicólogo",
+          "semester": 3
+        },
+        {
+          "name": "Psicologia do Desenvolvimento do Adulto e do Idoso",
+          "semester": 3
+        },
+        {
+          "name": "Análise Experimental do Comportamento",
+          "semester": 3
+        },
+        {
+          "name": "Processos Grupais",
+          "semester": 3
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prática em Saúde Comunitária",
+          "semester": 4
+        },
+        {
+          "name": "Estágio Básico II: Fenômenos Psicossociais",
+          "semester": 4
+        },
+        {
+          "name": "Avaliação Psicológica I",
+          "semester": 4
+        },
+        {
+          "name": "Análise Aplicada do Comportamento",
+          "semester": 4
+        },
+        {
+          "name": "Fundamentos da Psicanálise",
+          "semester": 4
+        },
+        {
+          "name": "Gestão e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Epidemiologia e Bioestatística",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Estágio Básico III: Processos Educativos",
+          "semester": 5
+        },
+        {
+          "name": "Avaliação Psicológica II",
+          "semester": 5
+        },
+        {
+          "name": "Fundamentos da Psicologia Humanista",
+          "semester": 5
+        },
+        {
+          "name": "Práticas em Psicanálise",
+          "semester": 5
+        },
+        {
+          "name": "Saúde Mental",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde Aplicada",
+          "semester": 6
+        },
+        {
+          "name": "Estágio Básico IV: Processos Laborais",
+          "semester": 6
+        },
+        {
+          "name": "Neuropsicologia",
+          "semester": 6
+        },
+        {
+          "name": "Práticas em Psicologia Humanista",
+          "semester": 6
+        },
+        {
+          "name": "Fundamentos das Psicopatologias",
+          "semester": 6
+        },
+        {
+          "name": "Psicologia Organizacional e do Trabalho",
+          "semester": 6
+        },
+        {
+          "name": "Estágio Básico V: Acolhimento e Avaliação Psicológica",
+          "semester": 7
+        },
+        {
+          "name": "Psicofarmacologia",
+          "semester": 7
+        },
+        {
+          "name": "Psicopatologias Compreensivas",
+          "semester": 7
+        },
+        {
+          "name": "Psicologia da Saúde",
+          "semester": 7
+        },
+        {
+          "name": "Práticas Psicoterapêuticas: Análise do Comportamento",
+          "semester": 7
+        },
+        {
+          "name": "Relações étnico-raciais, gênero e sexualidade",
+          "semester": 7
+        },
+        {
+          "name": "Psicologia Escolar e Educacional",
+          "semester": 8
+        },
+        {
+          "name": "Psicologia Jurídica",
+          "semester": 8
+        },
+        {
+          "name": "Práticas Psicoterapêuticas: Psicanálise",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva 1 de Ênfase em Processos Clínicos",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva 1 de Ênfase em Processos Psicossocias e Psicoeducacionais OU Processos de Promoção da Saúde e bem-estar",
+          "semester": 8
+        },
+        {
+          "name": "Estágio de Ênfase em Processos Clínicos I",
+          "semester": 8
+        },
+        {
+          "name": "Estágio de Ênfase em Processos Psicossocias e Psicoeducacionais OU Processos de Promoção da Saúde e bem-estar I",
+          "semester": 8
+        },
+        {
+          "name": "Práticas Psicoterapêuticas: Humanista",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Eletiva 2 de Ênfase em Processos Clínicos",
+          "semester": 9
+        },
+        {
+          "name": "Eletiva 2 de Ênfase em Processos Psicossocias e Psicoeducacionais OU Processos de Promoção da Saúde e bem-estar",
+          "semester": 9
+        },
+        {
+          "name": "Estágio de Ênfase em Processos Clínicos II",
+          "semester": 9
+        },
+        {
+          "name": "Estágio de Ênfase em Processos Psicossocias e Psicoeducacionais OU Processos de Promoção da Saúde e bem-estar II",
+          "semester": 9
+        },
+        {
+          "name": "Orientação Profissional",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva 3 de Ênfase em Processos Clínicos",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva 3 de Ênfase em Processos Psicossocias e Psicoeducacionais OU Processos de Promoção da Saúde e bem-estar",
+          "semester": 10
+        },
+        {
+          "name": "Estágio de Ênfase em Processos Clínicos III",
+          "semester": 10
+        },
+        {
+          "name": "Estágio de Ênfase em Processos Psicossocias e Psicoeducacionais OU Processos de Promoção da Saúde e bem-estar III",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "enfermagem-presencial",
+      "name": "Enfermagem",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/enfermagem/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/enfermagem/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Estrutura e Função Humana",
+          "semester": 1
+        },
+        {
+          "name": "Ética e Exercício Profissional de Enfermagem",
+          "semester": 1
+        },
+        {
+          "name": "Mecanismos Celulares e Moleculares",
+          "semester": 1
+        },
+        {
+          "name": "Matriz Sócio Histórica dos Modelos Assistenciais",
+          "semester": 1
+        },
+        {
+          "name": "Desenvolvimento Humano e Social Aplicado à Saúde",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Aplicada à Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Estrutura e Função Humana Aplicada",
+          "semester": 2
+        },
+        {
+          "name": "Produção e Interpretação de Conhecimento em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Integralidade e Multiprofissionalidade nas ações de saúde",
+          "semester": 2
+        },
+        {
+          "name": "Prática Clínica: Métodos e instrumentos para a avaliação multidimensional na atenção à saúde",
+          "semester": 3
+        },
+        {
+          "name": "Alterações e Disfunções dos Sistemas Orgânicos",
+          "semester": 3
+        },
+        {
+          "name": "Mecanismos de Defesa e Doença",
+          "semester": 3
+        },
+        {
+          "name": "Sustentabilidade e Meio Ambiente Aplicado à Saúde",
+          "semester": 3
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prevenção em Saúde Comunitária",
+          "semester": 3
+        },
+        {
+          "name": "Educação na Assistência e na Formação em Saúde",
+          "semester": 4
+        },
+        {
+          "name": "Prática Clínica : Consulta multidimensional na atenção básica",
+          "semester": 4
+        },
+        {
+          "name": "Terapêutica Medicamentosa",
+          "semester": 4
+        },
+        {
+          "name": "Saúde Coletiva",
+          "semester": 4
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prática em Saúde Comunitária",
+          "semester": 4
+        },
+        {
+          "name": "Epidemiologia e Bioestatística",
+          "semester": 5
+        },
+        {
+          "name": "Optativa",
+          "semester": 5
+        },
+        {
+          "name": "Prática Clínica : Processos de cuidar na atenção básica",
+          "semester": 5
+        },
+        {
+          "name": "Terapêutica Medicamentosa Aplicada",
+          "semester": 5
+        },
+        {
+          "name": "Prática Clínica: Processos de Cuidar do adulto e idoso em unidades de média e alta complexidade I",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Enfermagem em Saúde Mental",
+          "semester": 6
+        },
+        {
+          "name": "Gestão e Inovação em Saúde",
+          "semester": 6
+        },
+        {
+          "name": "Qualidade da assistência e segurança do paciente",
+          "semester": 6
+        },
+        {
+          "name": "Prática Clínica: Processos de Cuidar do adulto e idoso em unidades de média e alta complexidade II",
+          "semester": 6
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde Aplicada",
+          "semester": 6
+        },
+        {
+          "name": "Tópicos Contemporâneos em Saúde",
+          "semester": 7
+        },
+        {
+          "name": "Prática Clínica: Processos de Cuidar em Unidade Cirúrgica",
+          "semester": 7
+        },
+        {
+          "name": "Prática Clínica: Processos de Cuidar na Saúde da Mulher, Saúde Materna e Neonatal",
+          "semester": 7
+        },
+        {
+          "name": "Gerenciamento de Serviços de Saúde e Enfermagem de Baixa Complexidade",
+          "semester": 7
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 7
+        },
+        {
+          "name": "Prática Clínica: Processos de Cuidar da Criança e Adolescente hospitalizados",
+          "semester": 8
+        },
+        {
+          "name": "Gerenciamento de Serviços de Saúde e Enfermagem de Média e Alta Complexidade",
+          "semester": 8
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 8
+        },
+        {
+          "name": "Gestão de Carreira em Saúde",
+          "semester": 8
+        },
+        {
+          "name": "Estágio Supervisionado em Unidades de Baixa Complexidade",
+          "semester": 9
+        },
+        {
+          "name": "Estágio Supervisionado em Unidades de Média e Alta Complexidade",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "medicina-veterinaria-presencial",
+      "name": "Medicina Veterinária",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/medicina-veterinaria/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/medicina-veterinaria/",
+      "curriculum_version": null,
+      "curriculum_status": "partial",
+      "subjects": [
+        {
+          "name": "Estrutura e função animal",
+          "semester": 1
+        },
+        {
+          "name": "Bases dos processos biológicos",
+          "semester": 1
+        },
+        {
+          "name": "Técnicas e práticas em campo",
+          "semester": 1
+        },
+        {
+          "name": "Animais e o meio ambiente",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação aplicada à saúde",
+          "semester": 1
+        },
+        {
+          "name": "Desenvolvimento humano e social aplicado à saúde",
+          "semester": 1
+        },
+        {
+          "name": "Estrutura e função animal aplicada",
+          "semester": 2
+        },
+        {
+          "name": "Processos biológicos aplicados",
+          "semester": 2
+        },
+        {
+          "name": "Técnicas e práticas ambulatoriais",
+          "semester": 2
+        },
+        {
+          "name": "Princípios farmacológicos",
+          "semester": 2
+        },
+        {
+          "name": "Produção e interpretação de conhecimento em saúde",
+          "semester": 2
+        },
+        {
+          "name": "Educação na assistência e na formação em saúde",
+          "semester": 2
+        },
+        {
+          "name": "Agentes agressores e defesa orgânica",
+          "semester": 3
+        },
+        {
+          "name": "Função da estrutura animal",
+          "semester": 3
+        },
+        {
+          "name": "Alimentos e nutrição dos animais de produção e de companhia",
+          "semester": 3
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prevenção em Saúde Comunitária",
+          "semester": 3
+        },
+        {
+          "name": "Saúde coletiva",
+          "semester": 3
+        },
+        {
+          "name": "Cadeias produtivas",
+          "semester": 4
+        },
+        {
+          "name": "Agentes causadores de doenças",
+          "semester": 4
+        },
+        {
+          "name": "Função da estrutura animal aplicada",
+          "semester": 4
+        },
+        {
+          "name": "Disfunção da estrutura animal",
+          "semester": 4
+        },
+        {
+          "name": "Gestão da produção animal",
+          "semester": 4
+        },
+        {
+          "name": "Criação de equinos",
+          "semester": 4
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Prática em Saúde Comunitária Aplicada",
+          "semester": 4
+        },
+        {
+          "name": "Gestão e inovação em saúde",
+          "semester": 5
+        },
+        {
+          "name": "Farmacologia e toxicologia",
+          "semester": 5
+        },
+        {
+          "name": "Produção e criação de aves e suínos",
+          "semester": 5
+        },
+        {
+          "name": "Disfunção da estrutura animal aplicada",
+          "semester": 5
+        },
+        {
+          "name": "Bases do diagnóstico laboratorial",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Optativa",
+          "semester": 5
+        },
+        {
+          "name": "Sustentabilidade e meio ambiente aplicado à saúde",
+          "semester": 5
+        },
+        {
+          "name": "Clínica médica de animais silvestres",
+          "semester": 6
+        },
+        {
+          "name": "Biotecnologias aplicadas à reprodução animal",
+          "semester": 6
+        },
+        {
+          "name": "Clínica médica de equinos",
+          "semester": 6
+        },
+        {
+          "name": "Bases do diagnóstico por imagem",
+          "semester": 6
+        },
+        {
+          "name": "Clínica médica de ruminantes",
+          "semester": 6
+        },
+        {
+          "name": "Clínica médica de pets",
+          "semester": 6
+        },
+        {
+          "name": "Projeto Interprofissional de Impacto Social: Tecnologia e Inovação em Saúde Aplicada",
+          "semester": 6
+        },
+        {
+          "name": "Tecnologia de produtos animais",
+          "semester": 7
+        },
+        {
+          "name": "Clínica cirúrgica de equinos",
+          "semester": 7
+        },
+        {
+          "name": "Clínica cirúrgica de ruminantes",
+          "semester": 7
+        },
+        {
+          "name": "Clínica cirúrgica de pets",
+          "semester": 7
+        },
+        {
+          "name": "Trabalho de conclusão de curso I",
+          "semester": 7
+        },
+        {
+          "name": "Epidemiologia e bioestatística",
+          "semester": 7
+        },
+        {
+          "name": "Anestesiologia em animais",
+          "semester": 7
+        },
+        {
+          "name": "Clínica cirúrgica de equinos aplicada",
+          "semester": 8
+        },
+        {
+          "name": "Clínica cirúrgica de ruminantes aplicada",
+          "semester": 8
+        },
+        {
+          "name": "Clínica cirúrgica de pets aplicada",
+          "semester": 8
+        },
+        {
+          "name": "Trabalho de conclusão de curso II",
+          "semester": 8
+        },
+        {
+          "name": "Tópicos contemporâneos em saúde",
+          "semester": 8
+        },
+        {
+          "name": "Gestão de carreira em saúde",
+          "semester": 8
+        },
+        {
+          "name": "Estágio profissionalizante I",
+          "semester": 9
+        },
+        {
+          "name": "Integração do estágio profissionalizante I",
+          "semester": 9
+        },
+        {
+          "name": "Estágio profissionalizante II",
+          "semester": 10
+        },
+        {
+          "name": "Integração do estágio profissionalizante II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-civil-presencial",
+      "name": "Engenharia Civil",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-civil/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-civil/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "Química e Aplicações",
+          "semester": 1
+        },
+        {
+          "name": "Projeto Assistido por Computador",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos Aplicados a Engenharia Civil",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "Upx - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Estática e Dinâmica dos Movimentos",
+          "semester": 2
+        },
+        {
+          "name": "Cálculo Diferencial e Integral I",
+          "semester": 2
+        },
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 2
+        },
+        {
+          "name": "Tecnologias Digitais Aplicadas a Engenharia Civil",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "Upx - Engenharia Contemporânea",
+          "semester": 2
+        },
+        {
+          "name": "Energias e Fluídos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 3
+        },
+        {
+          "name": "Topografia",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "Upx - Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 4
+        },
+        {
+          "name": "Cálculos Aplicados à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Mecânica Geral",
+          "semester": 4
+        },
+        {
+          "name": "Tecnologia do concreto",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "Upx - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Tecnologia dos Materiais de Construção Civil",
+          "semester": 5
+        },
+        {
+          "name": "Tecnologia das Construções",
+          "semester": 5
+        },
+        {
+          "name": "Sistemas Elétricos Prediais",
+          "semester": 5
+        },
+        {
+          "name": "Mecânica dos Fluídos Aplicado à Engenharia Civil",
+          "semester": 5
+        },
+        {
+          "name": "Upx - Inovação na Construção Civil",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva I",
+          "semester": 5
+        },
+        {
+          "name": "Geotecnia",
+          "semester": 6
+        },
+        {
+          "name": "Planejamento e Orçamento de Obras",
+          "semester": 6
+        },
+        {
+          "name": "Sistemas Hidráulicos Prediais",
+          "semester": 6
+        },
+        {
+          "name": "Hidrotecnia",
+          "semester": 6
+        },
+        {
+          "name": "Upx - Edificações Sustentáveis",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva II",
+          "semester": 6
+        },
+        {
+          "name": "Resistência dos Materiais",
+          "semester": 7
+        },
+        {
+          "name": "Projetos e Obras Viárias",
+          "semester": 7
+        },
+        {
+          "name": "Mecânica dos Solos",
+          "semester": 7
+        },
+        {
+          "name": "Upx - Durabilidade e Desempenho Aplicados à Engenharia Civil",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva III",
+          "semester": 7
+        },
+        {
+          "name": "Teoria das Estruturas",
+          "semester": 8
+        },
+        {
+          "name": "Mobilidade Urbana",
+          "semester": 8
+        },
+        {
+          "name": "Saneamento Básico",
+          "semester": 8
+        },
+        {
+          "name": "Upx - Gestão e Tratamento de Resíduos Sólidos, Água e Efluentes",
+          "semester": 8
+        },
+        {
+          "name": "Gestão e Tratamento de Resíduos Sólidos",
+          "semester": 8
+        },
+        {
+          "name": "Água e Efluentes",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva IV",
+          "semester": 8
+        },
+        {
+          "name": "Transportes Ferro-Hidro-Aéreo-Dutoviário",
+          "semester": 8
+        },
+        {
+          "name": "Concreto Armado",
+          "semester": 9
+        },
+        {
+          "name": "Fundações e Obras de Terra",
+          "semester": 9
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais Aplicados à Engenharia Civil I",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Infraestrutura Urbana",
+          "semester": 9
+        },
+        {
+          "name": "Estruturas Metálicas e de Madeira",
+          "semester": 10
+        },
+        {
+          "name": "Pontes e Grandes Estruturas",
+          "semester": 10
+        },
+        {
+          "name": "Sistemas Estruturais",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais Aplicados à Engenharia Civil II",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 10
+        },
+        {
+          "name": "Estruturas de Concretos Especiais e Protendido",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-de-computacao-presencial",
+      "name": "Engenharia da Computação",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-de-computacao/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-de-computacao/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 1
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "Programação e IoT",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "Upx - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Programação Estruturada",
+          "semester": 2
+        },
+        {
+          "name": "Fundamentos de Química",
+          "semester": 2
+        },
+        {
+          "name": "Web Design",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "Upx -Sustentabilidade e Meio Ambiente",
+          "semester": 2
+        },
+        {
+          "name": "Arquitetura e Organização Básica de Computadores",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 3
+        },
+        {
+          "name": "Métodos Numéricos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "Upx - Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Banco de Dados",
+          "semester": 4
+        },
+        {
+          "name": "Construção de Ambientes Virtuais",
+          "semester": 4
+        },
+        {
+          "name": "Métodos Aplicados à Engenharia - Grupo2",
+          "semester": 4
+        },
+        {
+          "name": "Programação Orientada a Objetos",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Desenvolvimento Web",
+          "semester": 5
+        },
+        {
+          "name": "Estrutura de Dados",
+          "semester": 5
+        },
+        {
+          "name": "Sistemas Operacionais",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva",
+          "semester": 5
+        },
+        {
+          "name": "Upx - Domótica",
+          "semester": 5
+        },
+        {
+          "name": "Desenvolvimento Mobile",
+          "semester": 6
+        },
+        {
+          "name": "Eletrônica Analógica",
+          "semester": 6
+        },
+        {
+          "name": "Redes de Computadores",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva",
+          "semester": 6
+        },
+        {
+          "name": "Upx - Educação, Agro e Saúde 4.0",
+          "semester": 6
+        },
+        {
+          "name": "Eletrônica Digital Computacional",
+          "semester": 7
+        },
+        {
+          "name": "Engenharia de Software",
+          "semester": 7
+        },
+        {
+          "name": "Processamento de Imagens",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva",
+          "semester": 7
+        },
+        {
+          "name": "Upx - TIC para Cidades Inteligentes",
+          "semester": 7
+        },
+        {
+          "name": "Arquitetura Orientada à Serviços",
+          "semester": 8
+        },
+        {
+          "name": "Processamento de Sinais",
+          "semester": 8
+        },
+        {
+          "name": "Reconhecimento de Padrões",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva",
+          "semester": 8
+        },
+        {
+          "name": "Upx - Realidade Aumentada",
+          "semester": 8
+        },
+        {
+          "name": "Linguagens Formais e Compiladores",
+          "semester": 9
+        },
+        {
+          "name": "Inteligência Artificial",
+          "semester": 9
+        },
+        {
+          "name": "Eletiva - Trilha",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia da Computação I",
+          "semester": 9
+        },
+        {
+          "name": "Programação Distribuída",
+          "semester": 10
+        },
+        {
+          "name": "Sistemas Digitais",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva - Trilha",
+          "semester": 10
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia da Computação II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-eletrica-presencial",
+      "name": "Engenharia Elétrica",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-eletrica/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-eletrica/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 1
+        },
+        {
+          "name": "Análise de dados",
+          "semester": 1
+        },
+        {
+          "name": "Programação e IoT",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "UPX - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Energias e Fluídos",
+          "semester": 2
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Elementos de Química",
+          "semester": 2
+        },
+        {
+          "name": "Programação Estruturada",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "UPX - Engenharia Contemporânea",
+          "semester": 2
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Métodos Numéricos",
+          "semester": 3
+        },
+        {
+          "name": "Fontes Renováveis Alternativas e Geração Distribuida de Energia",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "UPX - Engenharia da inovação",
+          "semester": 3
+        },
+        {
+          "name": "Estática e Dinâmica dos Movimentos",
+          "semester": 4
+        },
+        {
+          "name": "Métodos Aplicados à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Design e Expressão Gráfica",
+          "semester": 4
+        },
+        {
+          "name": "Engenharia Eletromagnética",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Análise de Circuitos Elétricos",
+          "semester": 5
+        },
+        {
+          "name": "Materiais Elétricos e Semicondutores",
+          "semester": 5
+        },
+        {
+          "name": "Tecnologias elétricas",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva",
+          "semester": 5
+        },
+        {
+          "name": "Upx: Instalações Elétricas",
+          "semester": 5
+        },
+        {
+          "name": "Análise de Sistemas Elétricos",
+          "semester": 6
+        },
+        {
+          "name": "Máquinas e Acionamentos Elétricos",
+          "semester": 6
+        },
+        {
+          "name": "Projetos Eletrônicos",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva",
+          "semester": 6
+        },
+        {
+          "name": "Upx: Controle de Máquinas",
+          "semester": 6
+        },
+        {
+          "name": "Automação Industrial",
+          "semester": 7
+        },
+        {
+          "name": "Controle e Sensores",
+          "semester": 7
+        },
+        {
+          "name": "Redes de Computadores",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva",
+          "semester": 7
+        },
+        {
+          "name": "Upx: Processamento de Sinais",
+          "semester": 7
+        },
+        {
+          "name": "Sistemas de Comunicações",
+          "semester": 8
+        },
+        {
+          "name": "Eletrônica de Potência",
+          "semester": 8
+        },
+        {
+          "name": "Automação e Proteção do Sistema Elétrico de Potência",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva",
+          "semester": 8
+        },
+        {
+          "name": "Upx: Simulação de Sistemas Elétricos",
+          "semester": 8
+        },
+        {
+          "name": "Projetos de Controle Moderno",
+          "semester": 9
+        },
+        {
+          "name": "Aplicações Embarcadas e IoT",
+          "semester": 9
+        },
+        {
+          "name": "Máquinas Elétricas Aplicadas",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Elétrica I",
+          "semester": 9
+        },
+        {
+          "name": "Sistema Elétrico de Potência",
+          "semester": 10
+        },
+        {
+          "name": "Manufatura Avançada",
+          "semester": 10
+        },
+        {
+          "name": "Redes Elétricas Inteligentes",
+          "semester": 10
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Elétrica II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-mecanica-presencial",
+      "name": "Engenharia Mecânica",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-mecanica/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-mecanica/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "Química e Aplicações",
+          "semester": 1
+        },
+        {
+          "name": "Desenho",
+          "semester": 1
+        },
+        {
+          "name": "Tecnologia Mecânica",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "UPX - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Estática e Dinâmica dos Movimentos",
+          "semester": 2
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 2
+        },
+        {
+          "name": "Desenho Mecânico",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "UPX - Engenharia Contemporânea",
+          "semester": 2
+        },
+        {
+          "name": "Energias e Fluídos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 3
+        },
+        {
+          "name": "Ciência e Tecnologia dos Materiais",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "UPX - Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 4
+        },
+        {
+          "name": "Cálculo Aplicado à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Metrologia",
+          "semester": 4
+        },
+        {
+          "name": "Resistência dos Materiais",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Ensaios e normas",
+          "semester": 5
+        },
+        {
+          "name": "Usinagem",
+          "semester": 5
+        },
+        {
+          "name": "Tratamento Térmico",
+          "semester": 5
+        },
+        {
+          "name": "Mecânica dos Materiais",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva",
+          "semester": 5
+        },
+        {
+          "name": "Upx - Explorando Processos Produtivos e seus equipamentos",
+          "semester": 5
+        },
+        {
+          "name": "Equipamentos CNC",
+          "semester": 6
+        },
+        {
+          "name": "Fundição e Soldagem",
+          "semester": 6
+        },
+        {
+          "name": "Processos por Conformação Mecânica",
+          "semester": 6
+        },
+        {
+          "name": "Manufatura Aditiva e Híbrida",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva",
+          "semester": 6
+        },
+        {
+          "name": "Upx - Conformação: Análise e criação",
+          "semester": 6
+        },
+        {
+          "name": "Termodinâmica",
+          "semester": 7
+        },
+        {
+          "name": "Elementos de Máquinas",
+          "semester": 7
+        },
+        {
+          "name": "Mecânica dos Fluídos",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva",
+          "semester": 7
+        },
+        {
+          "name": "Upx - Aventura & Modelação (Projeto Trike e simulação de projetos)",
+          "semester": 7
+        },
+        {
+          "name": "Ciclos de Potência Termodinâmicos",
+          "semester": 8
+        },
+        {
+          "name": "Transferência de Calor Aplicada à Engenharia Mecânica",
+          "semester": 8
+        },
+        {
+          "name": "Projetos de Equipamentos",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva",
+          "semester": 8
+        },
+        {
+          "name": "Upx - Viabilizando processos automatizados",
+          "semester": 8
+        },
+        {
+          "name": "Automação Hidráulica e Pneumática",
+          "semester": 9
+        },
+        {
+          "name": "Vibrações Mecânicas",
+          "semester": 9
+        },
+        {
+          "name": "Sistemas Automotivos",
+          "semester": 9
+        },
+        {
+          "name": "Eletiva",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Mecânica I",
+          "semester": 9
+        },
+        {
+          "name": "Refrigeração e Condicionamento de Ar",
+          "semester": 10
+        },
+        {
+          "name": "Máquinas Hidráulicas",
+          "semester": 10
+        },
+        {
+          "name": "Mobilidade e Sistemas de Propulsão",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva",
+          "semester": 10
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Mecânica II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-mecatronica-presencial",
+      "name": "Engenharia Mecatrônica",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-mecatronica/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-mecatronica/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Algoritmos",
+          "semester": 1
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "Programação e IoT",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "Upx - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Energias e Fluídos",
+          "semester": 2
+        },
+        {
+          "name": "Fundamentos de Química",
+          "semester": 2
+        },
+        {
+          "name": "Programação Estruturada",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "Upx -Sustentabilidade e Meio Ambiente",
+          "semester": 2
+        },
+        {
+          "name": "Arquitetura e Organização Básica de Computadores",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Programação Industrial",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "Upx - Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Desenho",
+          "semester": 4
+        },
+        {
+          "name": "Circuitos Elétricos",
+          "semester": 4
+        },
+        {
+          "name": "Instrumentação Industrial",
+          "semester": 4
+        },
+        {
+          "name": "Métodos Aplicados à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Automação Pneumática e Hidráulica",
+          "semester": 5
+        },
+        {
+          "name": "Estrutura de Dados",
+          "semester": 5
+        },
+        {
+          "name": "Sistemas Eletrônicos",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva",
+          "semester": 5
+        },
+        {
+          "name": "Upx - Projetos Eletrônicos",
+          "semester": 5
+        },
+        {
+          "name": "Modelagem e Simulação de Sistemas",
+          "semester": 6
+        },
+        {
+          "name": "Sistemas e Dispositivos Mecânicos",
+          "semester": 6
+        },
+        {
+          "name": "Sistemas Digitais",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva",
+          "semester": 6
+        },
+        {
+          "name": "Upx - Projetos Robóticos",
+          "semester": 6
+        },
+        {
+          "name": "Automação Industrial",
+          "semester": 7
+        },
+        {
+          "name": "Sistemas de Controle",
+          "semester": 7
+        },
+        {
+          "name": "Sistemas Embarcados",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva",
+          "semester": 7
+        },
+        {
+          "name": "Upx - Domótica",
+          "semester": 7
+        },
+        {
+          "name": "Eletrônica de Potência",
+          "semester": 8
+        },
+        {
+          "name": "Redes de Comunicação e Sistemas Supervisórios",
+          "semester": 8
+        },
+        {
+          "name": "Acionamentos e Servomecanismos",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva",
+          "semester": 8
+        },
+        {
+          "name": "Upx - Projetos de Automação",
+          "semester": 8
+        },
+        {
+          "name": "Inteligência Artificial",
+          "semester": 9
+        },
+        {
+          "name": "Projetos de Controle Moderno",
+          "semester": 9
+        },
+        {
+          "name": "Eletiva",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Mecatrônica I",
+          "semester": 9
+        },
+        {
+          "name": "Robótica Industrial",
+          "semester": 10
+        },
+        {
+          "name": "Controle e Automação de Processos",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva - Trilha",
+          "semester": 10
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Mecatrônica II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-de-producao-presencial",
+      "name": "Engenharia de Produção",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-de-producao/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-de-producao/",
+      "curriculum_version": null,
+      "curriculum_status": "partial",
+      "subjects": [
+        {
+          "name": "Fundamentos de matemática e física",
+          "semester": 1
+        },
+        {
+          "name": "Química e aplicações",
+          "semester": 1
+        },
+        {
+          "name": "Desenho",
+          "semester": 1
+        },
+        {
+          "name": "Modelagem de Produções e Operações",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "UPX - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Estática e Dinâmica dos Movimentos",
+          "semester": 2
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Algoritmos",
+          "semester": 2
+        },
+        {
+          "name": "Tecnologias da Informação Aplicadas à Engenharia de Produção",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "UPX - Engenharia Contemporânea",
+          "semester": 2
+        },
+        {
+          "name": "Energias e Fluídos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 3
+        },
+        {
+          "name": "Métodos e Processos de Fabricação",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "UPX - Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 4
+        },
+        {
+          "name": "Métodos Aplicados à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Desenho Mecânico",
+          "semester": 4
+        },
+        {
+          "name": "Controle Dimensional da Qualidade",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Pesquisa Operacional",
+          "semester": 5
+        },
+        {
+          "name": "Inferência Estatística",
+          "semester": 5
+        },
+        {
+          "name": "Materiais para Indústria",
+          "semester": 5
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 5
+        },
+        {
+          "name": "Upx - Sistemas de Suporte à Decisão",
+          "semester": 5
+        },
+        {
+          "name": "Simulação de Sistemas",
+          "semester": 6
+        },
+        {
+          "name": "Cadeia de Suprimentos - Supply Chain",
+          "semester": 6
+        },
+        {
+          "name": "Custos e Orçamentos",
+          "semester": 6
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 6
+        },
+        {
+          "name": "Upx - Logística Circular",
+          "semester": 6
+        },
+        {
+          "name": "Sistemas de Produção de Flexível",
+          "semester": 7
+        },
+        {
+          "name": "Planejamento e Controle da Produção",
+          "semester": 7
+        },
+        {
+          "name": "Engenharia Econômica",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva",
+          "semester": 7
+        },
+        {
+          "name": "Upx - Projeto de Fábrica Competitiva - Factory Layout",
+          "semester": 7
+        },
+        {
+          "name": "Gestão da Inovação",
+          "semester": 8
+        },
+        {
+          "name": "Engenharia Organizacional",
+          "semester": 8
+        },
+        {
+          "name": "Manutenção e Confiabilidade",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva",
+          "semester": 8
+        },
+        {
+          "name": "Upx - Inovação de Produtos e Processos - Skills Lab",
+          "semester": 8
+        },
+        {
+          "name": "Máquinas CNC",
+          "semester": 9
+        },
+        {
+          "name": "Manufatura Avançada - Lean Six Sigma",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Estratégica de Projetos e de Marketing",
+          "semester": 9
+        },
+        {
+          "name": "Eletiva",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos em Engenharia de Produção I",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Produção Virtual e Comisssionamento",
+          "semester": 10
+        },
+        {
+          "name": "Robótica e Indústria 4.0",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos em Engenharia de Produção II",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-quimica-presencial",
+      "name": "Engenharia Química",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-quimica/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-quimica/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "Química e suas aplicações",
+          "semester": 1
+        },
+        {
+          "name": "Desenho",
+          "semester": 1
+        },
+        {
+          "name": "Química Orgânica",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 1
+        },
+        {
+          "name": "UPX - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Estática e Dinâmica dos Movimentos",
+          "semester": 2
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 2
+        },
+        {
+          "name": "Química Analítica Qualitativa",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 2
+        },
+        {
+          "name": "UPX – Engenharia Contemporânea",
+          "semester": 2
+        },
+        {
+          "name": "Energia e Fluidos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 3
+        },
+        {
+          "name": "Fundamentos de Engenharia de Processos",
+          "semester": 3
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 3
+        },
+        {
+          "name": "UPX – Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 4
+        },
+        {
+          "name": "Métodos Aplicados à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Química Analítica Quantitativa",
+          "semester": 4
+        },
+        {
+          "name": "Termoquímica",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Equilíbrio de fases",
+          "semester": 5
+        },
+        {
+          "name": "Mecânica dos Fluidos Aplicado",
+          "semester": 5
+        },
+        {
+          "name": "Materiais para a Indústria",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva",
+          "semester": 5
+        },
+        {
+          "name": "UPX - Fluidodinâmica Industrial",
+          "semester": 5
+        },
+        {
+          "name": "Operações Unitárias envolvendo materiais particulados",
+          "semester": 6
+        },
+        {
+          "name": "Transferência de Calor",
+          "semester": 6
+        },
+        {
+          "name": "Cinética Química Aplicada",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva",
+          "semester": 6
+        },
+        {
+          "name": "UPX - Explorando a Cinética das Reações Industriais",
+          "semester": 6
+        },
+        {
+          "name": "Transferência de Massa",
+          "semester": 7
+        },
+        {
+          "name": "Operações unitárias envolvendo transferência de calor",
+          "semester": 7
+        },
+        {
+          "name": "Projeto de Reatores Químicos",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva",
+          "semester": 7
+        },
+        {
+          "name": "UPX - Desenvolvendo Biocombustíveis",
+          "semester": 7
+        },
+        {
+          "name": "Laboratório de Processos Químicos",
+          "semester": 8
+        },
+        {
+          "name": "Operações unitárias envolvendo transferência de massa",
+          "semester": 8
+        },
+        {
+          "name": "Métodos Computacionais aplicados a Engenharia de Processos",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva",
+          "semester": 8
+        },
+        {
+          "name": "UPX - Ressignificando resíduos industriais",
+          "semester": 8
+        },
+        {
+          "name": "Laboratório de Tecnologias Químicas",
+          "semester": 9
+        },
+        {
+          "name": "Projeto de Instalações Industriais",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Química I",
+          "semester": 9
+        },
+        {
+          "name": "Modelagem e Simulação de Processos",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Instrumentação e Controle de Processos",
+          "semester": 10
+        },
+        {
+          "name": "Engenharia Bioquímica",
+          "semester": 10
+        },
+        {
+          "name": "Tecnologia de Alimentos",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia Química II",
+          "semester": 10
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "engenharia-agronomica-presencial",
+      "name": "Engenharia Agronômica",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-agronomica/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-agronomica/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Biologia Aplicada à Agronomia",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos de Ciencias Exatas EAD",
+          "semester": 1
+        },
+        {
+          "name": "Desenho",
+          "semester": 1
+        },
+        {
+          "name": "Química e Aplicações",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva EAD",
+          "semester": 1
+        },
+        {
+          "name": "Energia e Fluidos",
+          "semester": 1
+        },
+        {
+          "name": "Pedologia, Fertilidade e Saúde do Solo",
+          "semester": 2
+        },
+        {
+          "name": "Cálculo Diferencial e Integral",
+          "semester": 2
+        },
+        {
+          "name": "Agrometeorologia e Gestão de Riscos Climáticos",
+          "semester": 2
+        },
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 2
+        },
+        {
+          "name": "Fisiologia Vegetal e Desempenho de Sementes",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade EAD",
+          "semester": 2
+        },
+        {
+          "name": "Biotecnologia, Genética e Melhoramento Vegetal",
+          "semester": 3
+        },
+        {
+          "name": "Entomologia e Manejo Inteligente de Pragas",
+          "semester": 3
+        },
+        {
+          "name": "Nutrição de Plantas e Manejo da Adubação",
+          "semester": 3
+        },
+        {
+          "name": "Topografia e Geoprocessamento",
+          "semester": 3
+        },
+        {
+          "name": "Pós-Colheita e Qualidade de Produtos Agrícolas",
+          "semester": 3
+        },
+        {
+          "name": "Sanidade Vegetal: Diagnóstico e Manejo de Doenças",
+          "semester": 4
+        },
+        {
+          "name": "Mecanização, Automação e Logística Agrícola",
+          "semester": 4
+        },
+        {
+          "name": "Ciência de Dados, Experimentação e Modelagem Agrícola",
+          "semester": 4
+        },
+        {
+          "name": "Manejo Florestal e Sistemas Regenerativos",
+          "semester": 4
+        },
+        {
+          "name": "Microbiologia Agrícola EAD",
+          "semester": 4
+        },
+        {
+          "name": "Sustentabilidade, ESG e Serviços Ecossistêmicos",
+          "semester": 5
+        },
+        {
+          "name": "Manejo Integrado de Plantas Daninhas",
+          "semester": 5
+        },
+        {
+          "name": "Avaliação de Imóveis Rurais, Perícia e Laudos Técnicos",
+          "semester": 5
+        },
+        {
+          "name": "Forragicultura, Pastagens e Produção Regenerativa",
+          "semester": 5
+        },
+        {
+          "name": "Economia, Gestão e Planejamento da Propriedade Rural",
+          "semester": 5
+        },
+        {
+          "name": "Grandes Culturas: Produção, Manejo e Inovação",
+          "semester": 5
+        },
+        {
+          "name": "Olericultura, Fruticultura e Cultivos Protegidos",
+          "semester": 6
+        },
+        {
+          "name": "Agroindústria e Cadeias de Valor do Agro",
+          "semester": 6
+        },
+        {
+          "name": "Hidrologia, Irrigação, Drenagem e Gestão da Água",
+          "semester": 6
+        },
+        {
+          "name": "Infraestrutura e Construções Rurais",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva EAD",
+          "semester": 6
+        },
+        {
+          "name": "Gestão da Inovação",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva EAD",
+          "semester": 7
+        },
+        {
+          "name": "Paisagismo, Floricultura e Cidades Verdes",
+          "semester": 7
+        },
+        {
+          "name": "AgroTech: Agricultura de Precisão e IA",
+          "semester": 7
+        },
+        {
+          "name": "Produção Animal Inteligente e Sistemas Integrados",
+          "semester": 7
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso 1",
+          "semester": 7
+        },
+        {
+          "name": "Manejo e Conservação do Solo e da Água em Sistemas Regenerativos",
+          "semester": 7
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 8
+        },
+        {
+          "name": "Design Colaborativo",
+          "semester": 8
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 8
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso 2",
+          "semester": 8
+        },
+        {
+          "name": "Modelagem de Processos de Negócios",
+          "semester": 8
+        },
+        {
+          "name": "Extensão, Desenvolvimento Rural e Consultoria Agronômica",
+          "semester": 8
+        }
+      ]
+    },
+    {
+      "id": "engenharia-de-controle-e-automacao-presencial",
+      "name": "Engenharia de Controle e Automação",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/engenharia-de-controle-e-automacao/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/engenharia-de-controle-e-automacao/",
+      "curriculum_version": null,
+      "curriculum_status": "partial",
+      "subjects": [
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 1
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 1
+        },
+        {
+          "name": "Comunicação Efetiva - EaD",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 1
+        },
+        {
+          "name": "UPX - Engenharia Criativa",
+          "semester": 1
+        },
+        {
+          "name": "Cálculo Diferencial e Integral I",
+          "semester": 2
+        },
+        {
+          "name": "Conexão Homem e Sociedade - EaD",
+          "semester": 2
+        },
+        {
+          "name": "Energia e Fluidos",
+          "semester": 2
+        },
+        {
+          "name": "Fundamentos de Química",
+          "semester": 2
+        },
+        {
+          "name": "Programação Estruturada",
+          "semester": 2
+        },
+        {
+          "name": "UPX - Engenharia Contemporânea",
+          "semester": 2
+        },
+        {
+          "name": "Design Colaborativo - EaD",
+          "semester": 3
+        },
+        {
+          "name": "Fenômenos Elétricos",
+          "semester": 3
+        },
+        {
+          "name": "Fontes Renováveis Alternativas e Geração Distribuída de Energia",
+          "semester": 3
+        },
+        {
+          "name": "Métodos Numéricos",
+          "semester": 3
+        },
+        {
+          "name": "Modelagem Matemática",
+          "semester": 3
+        },
+        {
+          "name": "UPX - Engenharia da Inovação",
+          "semester": 3
+        },
+        {
+          "name": "Desenho",
+          "semester": 4
+        },
+        {
+          "name": "Engenharia Eletromagnética",
+          "semester": 4
+        },
+        {
+          "name": "Estática e Dinâmica dos Movimentos",
+          "semester": 4
+        },
+        {
+          "name": "Métodos Aplicados à Engenharia",
+          "semester": 4
+        },
+        {
+          "name": "Transformação Digital - EaD",
+          "semester": 4
+        },
+        {
+          "name": "UPX - Smart Cities",
+          "semester": 4
+        },
+        {
+          "name": "Análise de Circuitos Elétricos",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva I - Controle e Automação - EaD",
+          "semester": 5
+        },
+        {
+          "name": "Materiais Elétricos e Semicondutores",
+          "semester": 5
+        },
+        {
+          "name": "Tecnologias Elétricas",
+          "semester": 5
+        },
+        {
+          "name": "UPX - Projetos Eletrônicos",
+          "semester": 5
+        },
+        {
+          "name": "Análise de Sistemas Elétricos",
+          "semester": 6
+        },
+        {
+          "name": "Eletiva II - Controle e Automação - EaD",
+          "semester": 6
+        },
+        {
+          "name": "Máquinas e Acionamentos Elétricos",
+          "semester": 6
+        },
+        {
+          "name": "Projetos Eletrônicos",
+          "semester": 6
+        },
+        {
+          "name": "UPX - Controle de Máquinas",
+          "semester": 6
+        },
+        {
+          "name": "Automação Industrial",
+          "semester": 7
+        },
+        {
+          "name": "Controle e Sensores",
+          "semester": 7
+        },
+        {
+          "name": "Eletiva III - Controle e Automação - EaD",
+          "semester": 7
+        },
+        {
+          "name": "Redes de Computadores",
+          "semester": 7
+        },
+        {
+          "name": "UPX - Processamento de Sinais",
+          "semester": 7
+        },
+        {
+          "name": "Projetos de Controle Moderno",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva IV - Controle e Automação - EaD",
+          "semester": 8
+        },
+        {
+          "name": "Eletrônica de Potência",
+          "semester": 8
+        },
+        {
+          "name": "Sistemas de Comunicações",
+          "semester": 8
+        },
+        {
+          "name": "UPX - Projetos Robóticos",
+          "semester": 8
+        },
+        {
+          "name": "Aplicações Embarcadas e IoT",
+          "semester": 9
+        },
+        {
+          "name": "Controle no Espaço de Estados",
+          "semester": 9
+        },
+        {
+          "name": "Estágio Supervisionado I",
+          "semester": 9
+        },
+        {
+          "name": "Gestão Empresarial - EaD",
+          "semester": 9
+        },
+        {
+          "name": "Máquinas Elétricas Aplicadas",
+          "semester": 9
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia de Controle e Automação I",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso I",
+          "semester": 9
+        },
+        {
+          "name": "Controle Digital",
+          "semester": 10
+        },
+        {
+          "name": "Eletiva V - Controle e Automação - EaD",
+          "semester": 10
+        },
+        {
+          "name": "Estágio Supervisionado II",
+          "semester": 10
+        },
+        {
+          "name": "Manufatura Avançada, IoT e Robótica",
+          "semester": 10
+        },
+        {
+          "name": "Robótica Industrial",
+          "semester": 10
+        },
+        {
+          "name": "Tópicos Especiais em Engenharia de Controle e Automação II",
+          "semester": 10
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso II",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "arquitetura-e-urbanismo-presencial",
+      "name": "Arquitetura e Urbanismo",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/arquitetura-e-urbanismo/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/arquitetura-e-urbanismo/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Desenho Arquitetônico I",
+          "semester": 1
+        },
+        {
+          "name": "Estética e História da Arte",
+          "semester": 1
+        },
+        {
+          "name": "Estudo Socieconomicos",
+          "semester": 1
+        },
+        {
+          "name": "Expressão e Representação Gráfica",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos da Física e da Matemática",
+          "semester": 1
+        },
+        {
+          "name": "Introdução à Arquitetura e Urbanismo",
+          "semester": 1
+        },
+        {
+          "name": "Materiais, Patologias e Técnicas Construtivas I",
+          "semester": 1
+        },
+        {
+          "name": "Metodologia Científica e da Pesquisa",
+          "semester": 1
+        },
+        {
+          "name": "Desenho Arquitetônico II",
+          "semester": 2
+        },
+        {
+          "name": "Desenho Digital I",
+          "semester": 2
+        },
+        {
+          "name": "Expressão e Representação das Formas",
+          "semester": 2
+        },
+        {
+          "name": "Materiais, Patologias e Técnicas Construtivas II",
+          "semester": 2
+        },
+        {
+          "name": "Planejamento Urbano I",
+          "semester": 2
+        },
+        {
+          "name": "Projeto de Arquitetura I",
+          "semester": 2
+        },
+        {
+          "name": "Resistência dos Materiais",
+          "semester": 2
+        },
+        {
+          "name": "Teoria e História da Arquitetura I",
+          "semester": 2
+        },
+        {
+          "name": "Leitura e Produção de Textos",
+          "semester": 2
+        },
+        {
+          "name": "Conforto Ambiental I: Térmico",
+          "semester": 3
+        },
+        {
+          "name": "Desenho Digital II",
+          "semester": 3
+        },
+        {
+          "name": "Eletiva I (AQ001 - AutoCAD)",
+          "semester": 3
+        },
+        {
+          "name": "Ergonomia e Desenho Universal",
+          "semester": 3
+        },
+        {
+          "name": "Planejamento Urbano II",
+          "semester": 3
+        },
+        {
+          "name": "Projeto de Arquitetura II",
+          "semester": 3
+        },
+        {
+          "name": "Sistemas Estruturais I",
+          "semester": 3
+        },
+        {
+          "name": "Teoria e História da Arquitetura II",
+          "semester": 3
+        },
+        {
+          "name": "Desenvolvimento Humano e Social",
+          "semester": 3
+        },
+        {
+          "name": "Conforto Ambiental II: Lumínico",
+          "semester": 4
+        },
+        {
+          "name": "Desenho Digital III",
+          "semester": 4
+        },
+        {
+          "name": "Eletiva II (AQ002 Leituras e Linguagens Visuais)",
+          "semester": 4
+        },
+        {
+          "name": "Mecânica dos Solos e Fundações",
+          "semester": 4
+        },
+        {
+          "name": "Projeto de Arquitetura III",
+          "semester": 4
+        },
+        {
+          "name": "Projeto de Urbanismo I: Central",
+          "semester": 4
+        },
+        {
+          "name": "Sistemas Estruturais: Concreto",
+          "semester": 4
+        },
+        {
+          "name": "Teoria e História da Arquitetura III",
+          "semester": 4
+        },
+        {
+          "name": "Sustentabilidade e Meio Ambiente",
+          "semester": 4
+        },
+        {
+          "name": "Arquitetura Digital I",
+          "semester": 5
+        },
+        {
+          "name": "Projeto de Arquitetura IV",
+          "semester": 5
+        },
+        {
+          "name": "Projeto de Urbanismo II",
+          "semester": 5
+        },
+        {
+          "name": "Sistemas Estruturais: Aço",
+          "semester": 5
+        },
+        {
+          "name": "Conforto Ambiental: Acústica",
+          "semester": 5
+        },
+        {
+          "name": "Topografia e Geoprocessamento",
+          "semester": 5
+        },
+        {
+          "name": "Teoria e História da Arquitetura IV",
+          "semester": 5
+        },
+        {
+          "name": "Eletiva III (AQ003 Patrimonio Cultural e a Produção das Cidades)",
+          "semester": 5
+        },
+        {
+          "name": "Gestão de Projetos",
+          "semester": 5
+        },
+        {
+          "name": "Arquitetura Digital II",
+          "semester": 6
+        },
+        {
+          "name": "Projeto de Arquitetura V",
+          "semester": 6
+        },
+        {
+          "name": "Projeto de Urbanismo III",
+          "semester": 6
+        },
+        {
+          "name": "Sistemas Estruturais: Madeira",
+          "semester": 6
+        },
+        {
+          "name": "Certificações e Avaliação das Edificações",
+          "semester": 6
+        },
+        {
+          "name": "Projeto de Paisagismo I",
+          "semester": 6
+        },
+        {
+          "name": "Instalações Elétricas",
+          "semester": 6
+        },
+        {
+          "name": "Teoria e História da Arquitetura V",
+          "semester": 6
+        },
+        {
+          "name": "Arquitetura Digital III",
+          "semester": 7
+        },
+        {
+          "name": "Projeto de Arquitetura VI",
+          "semester": 7
+        },
+        {
+          "name": "Projeto de Urbanismo IV",
+          "semester": 7
+        },
+        {
+          "name": "Sistemas Estruturais: Industrializados",
+          "semester": 7
+        },
+        {
+          "name": "Projeto de Paisagismo II",
+          "semester": 7
+        },
+        {
+          "name": "Design do Mobiliário",
+          "semester": 7
+        },
+        {
+          "name": "Instalações Hidráulicas",
+          "semester": 7
+        },
+        {
+          "name": "Teoria e História da Arquitetura VI",
+          "semester": 7
+        },
+        {
+          "name": "Projeto de Arquitetura VII",
+          "semester": 8
+        },
+        {
+          "name": "Projeto de Urbanismo V",
+          "semester": 8
+        },
+        {
+          "name": "Design de Interiores",
+          "semester": 8
+        },
+        {
+          "name": "Sistemas Estruturais : Superfícies e Formas Ativas",
+          "semester": 8
+        },
+        {
+          "name": "Instalações e Tecnologias Complementares",
+          "semester": 8
+        },
+        {
+          "name": "Projeto de Conservação e Restauro",
+          "semester": 8
+        },
+        {
+          "name": "Eletiva V (AQ005 Urbanismo Digital)",
+          "semester": 8
+        },
+        {
+          "name": "Trabalho Final de Graduação I",
+          "semester": 9
+        },
+        {
+          "name": "Projetos Especiais I",
+          "semester": 9
+        },
+        {
+          "name": "Prática Profissional",
+          "semester": 9
+        },
+        {
+          "name": "Cidadania",
+          "semester": 9
+        },
+        {
+          "name": "Trabalho Final de Graduação II",
+          "semester": 10
+        },
+        {
+          "name": "Projetos Especiais II",
+          "semester": 10
+        },
+        {
+          "name": "Empreendedorismo",
+          "semester": 10
+        },
+        {
+          "name": "Gestão de Pessoas",
+          "semester": 10
+        }
+      ]
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas-presencial",
+      "name": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "degree": "Tecnólogo",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+          "semester": 1
+        },
+        {
+          "name": "FUNDAMENTOS DE CIÊNCIAS EXATAS",
+          "semester": 1
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 1",
+          "semester": 1
+        },
+        {
+          "name": "ARQUITETURA DE COMPUTADORES",
+          "semester": 1
+        },
+        {
+          "name": "CONSTRUÇÃO DE ALGORITMOS",
+          "semester": 1
+        },
+        {
+          "name": "DESENVOLVIMENTO HUMANO E SOCIAL",
+          "semester": 2
+        },
+        {
+          "name": "ENGENHARIA DE SOFTWARE",
+          "semester": 2
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 2",
+          "semester": 2
+        },
+        {
+          "name": "PROGRAMAÇÃO ORIENTADA À OBJETOS",
+          "semester": 2
+        },
+        {
+          "name": "BANCO DE DADOS",
+          "semester": 2
+        },
+        {
+          "name": "ANÁLISE DE SISTEMAS",
+          "semester": 3
+        },
+        {
+          "name": "REDES DE COMPUTADORES",
+          "semester": 3
+        },
+        {
+          "name": "ESTATÍSTICA",
+          "semester": 3
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 3",
+          "semester": 3
+        },
+        {
+          "name": "ESTRUTURA DE DADOS",
+          "semester": 3
+        },
+        {
+          "name": "LINGUAGENS DE PROGRAMAÇÃO",
+          "semester": 3
+        },
+        {
+          "name": "OPTATIVA",
+          "semester": 4
+        },
+        {
+          "name": "UX/UI E TESTES DE SOFTWARE",
+          "semester": 4
+        },
+        {
+          "name": "BUSINNES INTELIGENCE",
+          "semester": 4
+        },
+        {
+          "name": "STARTUP: PROJECT ONE",
+          "semester": 4
+        },
+        {
+          "name": "PROCESSOS ÁGEIS & DESIGN DE NEGÓCIOS",
+          "semester": 4
+        },
+        {
+          "name": "DESENVOLVIMENTO WEB FRONT-END",
+          "semester": 4
+        },
+        {
+          "name": "SUSTENTABILIDADE E MEIO AMBIENTE",
+          "semester": 5
+        },
+        {
+          "name": "INTELIGÊNCIA ARTIFICIAL APLICADA E CHATBOTS",
+          "semester": 5
+        },
+        {
+          "name": "CIBER SEGURANÇA",
+          "semester": 5
+        },
+        {
+          "name": "STARTUP: FINAL PROJECT",
+          "semester": 5
+        },
+        {
+          "name": "DESENVOLVIMENTO WEB BACK-END",
+          "semester": 5
+        },
+        {
+          "name": "DESENVOLVIMENTO DE APPS PARA MOBILE",
+          "semester": 5
+        }
+      ]
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas-semipresencial",
+      "name": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "degree": "Tecnólogo",
+      "modality": "Semipresencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "FUNDAMENTOS DE CIÊNCIAS EXATAS",
+          "semester": 1
+        },
+        {
+          "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+          "semester": 1
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 1",
+          "semester": 1
+        },
+        {
+          "name": "ARQUITETURA DE COMPUTADORES",
+          "semester": 1
+        },
+        {
+          "name": "CONSTRUÇÃO DE ALGORITMOS",
+          "semester": 1
+        },
+        {
+          "name": "DESENVOLVIMENTO HUMANO E SOCIAL",
+          "semester": 2
+        },
+        {
+          "name": "ENGENHARIA DE SOFTWARE",
+          "semester": 2
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 2",
+          "semester": 2
+        },
+        {
+          "name": "PROGRAMAÇÃO ORIENTADA À OBJETOS",
+          "semester": 2
+        },
+        {
+          "name": "BANCO DE DADOS",
+          "semester": 2
+        },
+        {
+          "name": "REDES DE COMPUTADORES",
+          "semester": 3
+        },
+        {
+          "name": "ESTATÍSTICA",
+          "semester": 3
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 3",
+          "semester": 3
+        },
+        {
+          "name": "ANÁLISE DE SISTEMAS",
+          "semester": 3
+        },
+        {
+          "name": "ESTRUTURA DE DADOS",
+          "semester": 3
+        },
+        {
+          "name": "LINGUAGENS DE PROGRAMAÇÃO",
+          "semester": 3
+        },
+        {
+          "name": "OPTATIVA I",
+          "semester": 4
+        },
+        {
+          "name": "QUALIDADE E TESTES DE SOFTWARE",
+          "semester": 4
+        },
+        {
+          "name": "BUSINNES INTELIGENCE",
+          "semester": 4
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 4",
+          "semester": 4
+        },
+        {
+          "name": "MODELAGEM DE PROCESSOS DE NEGÓCIOS",
+          "semester": 4
+        },
+        {
+          "name": "PROGRAMAÇÃO WEB",
+          "semester": 4
+        },
+        {
+          "name": "SUSTENTABILIDADE E MEIO AMBIENTE",
+          "semester": 5
+        },
+        {
+          "name": "INTELIGÊNCIA ARTIFICIAL",
+          "semester": 5
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 5",
+          "semester": 5
+        },
+        {
+          "name": "CIBERSEGURANÇA",
+          "semester": 5
+        },
+        {
+          "name": "ARQUITETURA E APLICAÇÕES WEB",
+          "semester": 5
+        },
+        {
+          "name": "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+          "semester": 5
+        }
+      ]
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas-ead",
+      "name": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "degree": "Tecnólogo",
+      "modality": "EAD",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "FUNDAMENTOS DE CIÊNCIAS EXATAS",
+          "semester": 1
+        },
+        {
+          "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+          "semester": 1
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 1",
+          "semester": 1
+        },
+        {
+          "name": "ARQUITETURA DE COMPUTADORES",
+          "semester": 1
+        },
+        {
+          "name": "CONSTRUÇÃO DE ALGORITMOS",
+          "semester": 1
+        },
+        {
+          "name": "DESENVOLVIMENTO HUMANO E SOCIAL",
+          "semester": 2
+        },
+        {
+          "name": "ENGENHARIA DE SOFTWARE",
+          "semester": 2
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 2",
+          "semester": 2
+        },
+        {
+          "name": "PROGRAMAÇÃO ORIENTADA À OBJETOS",
+          "semester": 2
+        },
+        {
+          "name": "BANCO DE DADOS",
+          "semester": 2
+        },
+        {
+          "name": "ESTATÍSTICA",
+          "semester": 3
+        },
+        {
+          "name": "REDES DE COMPUTADORES",
+          "semester": 3
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 3",
+          "semester": 3
+        },
+        {
+          "name": "ANÁLISE DE SISTEMAS",
+          "semester": 3
+        },
+        {
+          "name": "ESTRUTURA DE DADOS",
+          "semester": 3
+        },
+        {
+          "name": "LINGUAGENS DE PROGRAMAÇÃO",
+          "semester": 3
+        },
+        {
+          "name": "Optativa I",
+          "semester": 4
+        },
+        {
+          "name": "QUALIDADE E TESTES DE SOFTWARE",
+          "semester": 4
+        },
+        {
+          "name": "BUSINNES INTELIGENCE",
+          "semester": 4
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 4",
+          "semester": 4
+        },
+        {
+          "name": "MODELAGEM DE PROCESSOS DE NEGÓCIOS",
+          "semester": 4
+        },
+        {
+          "name": "PROGRAMAÇÃO WEB",
+          "semester": 4
+        },
+        {
+          "name": "SUSTENTABILIDADE E MEIO AMBIENTE",
+          "semester": 5
+        },
+        {
+          "name": "INTELIGÊNCIA ARTIFICIAL",
+          "semester": 5
+        },
+        {
+          "name": "Arquitetura e Aplicações WEB",
+          "semester": 5
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 5",
+          "semester": 5
+        },
+        {
+          "name": "CIBERSEGURANÇA",
+          "semester": 5
+        },
+        {
+          "name": "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+          "semester": 5
+        }
+      ]
+    },
+    {
+      "id": "tecnologia-em-automacao-industrial-presencial",
+      "name": "Tecnologia em Automação Industrial",
+      "degree": "Tecnólogo",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-automacao-industrial/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/tecnologia-em-automacao-industrial/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Princípios de Automação Industrial",
+          "semester": 1
+        },
+        {
+          "name": "Controle Dimensional da Qualidade",
+          "semester": 1
+        },
+        {
+          "name": "Algoritmos e Programação",
+          "semester": 1
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 1
+        },
+        {
+          "name": "Desenho",
+          "semester": 1
+        },
+        {
+          "name": "Conexão Homem e Sociedade",
+          "semester": 1
+        },
+        {
+          "name": "UPX — Smart Cities",
+          "semester": 1
+        },
+        {
+          "name": "Fundamentos de Matemática e Física",
+          "semester": 2
+        },
+        {
+          "name": "Fenômenos de Eletromagnetismo",
+          "semester": 2
+        },
+        {
+          "name": "Programação Industrial",
+          "semester": 2
+        },
+        {
+          "name": "Automação Pneumática e Hidráulica",
+          "semester": 2
+        },
+        {
+          "name": "Análise de Circuitos Elétricos",
+          "semester": 2
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 2
+        },
+        {
+          "name": "UPX — Engenharia Criativa",
+          "semester": 2
+        },
+        {
+          "name": "Sistemas Eletrônicos e Digitais",
+          "semester": 3
+        },
+        {
+          "name": "Circuitos Elétricos",
+          "semester": 3
+        },
+        {
+          "name": "Instrumentação Industrial",
+          "semester": 3
+        },
+        {
+          "name": "Máquinas e Acionamentos Elétricos",
+          "semester": 3
+        },
+        {
+          "name": "Transformação Digital",
+          "semester": 3
+        },
+        {
+          "name": "UPX — Engenharia Contemporânea",
+          "semester": 3
+        },
+        {
+          "name": "CPLs e Controladores Lógicos",
+          "semester": 4
+        },
+        {
+          "name": "Automação Industrial",
+          "semester": 4
+        },
+        {
+          "name": "Sistemas de Controle",
+          "semester": 4
+        },
+        {
+          "name": "Qualidade em Processos e Projetos",
+          "semester": 4
+        },
+        {
+          "name": "Lean Startup e Agile",
+          "semester": 4
+        },
+        {
+          "name": "UPX — Domótica",
+          "semester": 4
+        },
+        {
+          "name": "Manufatura Avançada, IoT e Robótica",
+          "semester": 5
+        },
+        {
+          "name": "Controle e Automação de Processos",
+          "semester": 5
+        },
+        {
+          "name": "Redes de Comunicação e Sist. Supervisórios",
+          "semester": 5
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 5
+        },
+        {
+          "name": "Automatização de Processos",
+          "semester": 5
+        },
+        {
+          "name": "UPX — Projetos de Automação",
+          "semester": 5
+        },
+        {
+          "name": "Lean Six Sigma",
+          "semester": 6
+        },
+        {
+          "name": "Controle e Sensores",
+          "semester": 6
+        },
+        {
+          "name": "Sistemas Embarcados",
+          "semester": 6
+        },
+        {
+          "name": "Inteligência Artificial",
+          "semester": 6
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 6
+        },
+        {
+          "name": "Tópicos Especiais em Automação",
+          "semester": 6
+        }
+      ]
+    },
+    {
+      "id": "tecnologia-em-logistica-presencial",
+      "name": "Tecnologia em Logística",
+      "degree": "Tecnólogo",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-logistica/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/tecnologia-em-logistica/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Fundamento de Ciências Exatas",
+          "semester": 1
+        },
+        {
+          "name": "Cadeia de Suprimentos – Supply Chain",
+          "semester": 1
+        },
+        {
+          "name": "Controle Dimensional da Qualidade",
+          "semester": 1
+        },
+        {
+          "name": "Análise de Dados",
+          "semester": 1
+        },
+        {
+          "name": "Engenharia Organizacional",
+          "semester": 1
+        },
+        {
+          "name": "Upx – Logística Circular",
+          "semester": 1
+        },
+        {
+          "name": "Engenharia Econômica",
+          "semester": 2
+        },
+        {
+          "name": "Comunicação Efetiva",
+          "semester": 2
+        },
+        {
+          "name": "Inferência Estatística",
+          "semester": 2
+        },
+        {
+          "name": "• Modelagem de Produção e Operações",
+          "semester": 2
+        },
+        {
+          "name": "Logística de Transportes",
+          "semester": 2
+        },
+        {
+          "name": "Upx – Projeto de Fábrica Competitiva",
+          "semester": 2
+        },
+        {
+          "name": "Custos e Orçamentos",
+          "semester": 3
+        },
+        {
+          "name": "Excelência Corporativa: Integrando RSC e ESG",
+          "semester": 3
+        },
+        {
+          "name": "Inteligência de Negócios",
+          "semester": 3
+        },
+        {
+          "name": "Logística Internacional e Comércio Exterior",
+          "semester": 3
+        },
+        {
+          "name": "Upx – Inovação em Produtos e Processos",
+          "semester": 3
+        },
+        {
+          "name": "Gestão do Trabalho",
+          "semester": 3
+        },
+        {
+          "name": "Gestão Empresarial",
+          "semester": 4
+        },
+        {
+          "name": "Pesquisa Operacional",
+          "semester": 4
+        },
+        {
+          "name": "Lean Startup e Agile",
+          "semester": 4
+        },
+        {
+          "name": "Planejamento e Controle da Produção",
+          "semester": 4
+        },
+        {
+          "name": "Auditoria e Certificação da Qualidade",
+          "semester": 4
+        },
+        {
+          "name": "Tópicos Especiais em Logística",
+          "semester": 4
+        }
+      ]
+    },
+    {
+      "id": "tecnologia-em-jogos-digitais-presencial",
+      "name": "Tecnologia em Jogos Digitais",
+      "degree": "Tecnólogo",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-jogos-digitais/",
+      "curriculum_source_url": null,
+      "curriculum_version": null,
+      "curriculum_status": "unavailable",
+      "subjects": []
+    },
+    {
+      "id": "tecnologia-em-gestao-de-t-i-presencial",
+      "name": "Tecnologia em Gestão de T.I.",
+      "degree": "Tecnólogo",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-gestao-de-t-i/",
+      "curriculum_source_url": null,
+      "curriculum_version": null,
+      "curriculum_status": "unavailable",
+      "subjects": []
+    },
+    {
+      "id": "tecnologia-em-gestao-de-t-i-semipresencial",
+      "name": "Tecnologia em Gestão de T.I.",
+      "degree": "Tecnólogo",
+      "modality": "Semipresencial",
+      "source_url": "https://facens.br/cursos/graduacao/tecnologia-em-gestao-de-t-i/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/tecnologia-em-gestao-de-t-i/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "ARQUITETURA DE COMPUTADORES",
+          "semester": 1
+        },
+        {
+          "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+          "semester": 1
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 1",
+          "semester": 1
+        },
+        {
+          "name": "FUNDAMENTOS DE CIÊNCIAS EXATAS",
+          "semester": 1
+        },
+        {
+          "name": "CONSTRUÇÃO DE ALGORITMOS",
+          "semester": 1
+        },
+        {
+          "name": "LEAN STARTUP E AGILE APLICADA A TI",
+          "semester": 2
+        },
+        {
+          "name": "ENGENHARIA DE SOFTWARE",
+          "semester": 2
+        },
+        {
+          "name": "REDES DE COMPUTADORES",
+          "semester": 2
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 2",
+          "semester": 2
+        },
+        {
+          "name": "BANCO DE DADOS",
+          "semester": 2
+        },
+        {
+          "name": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+          "semester": 2
+        },
+        {
+          "name": "INTELIGÊNCIA ARTIFICIAL",
+          "semester": 3
+        },
+        {
+          "name": "ESTATÍSTICA",
+          "semester": 3
+        },
+        {
+          "name": "ANÁLISE DE SISTEMAS",
+          "semester": 3
+        },
+        {
+          "name": "USINA DE PROJETOS EXPERIMENTAIS (UPX) - TI 3",
+          "semester": 3
+        },
+        {
+          "name": "INFRAESTRUTURA E SERVIÇOS DE TI",
+          "semester": 3
+        },
+        {
+          "name": "ADMINISTRAÇÃO INTEGRADA",
+          "semester": 3
+        },
+        {
+          "name": "OPTATIVA I",
+          "semester": 4
+        },
+        {
+          "name": "BUSINNES INTELIGENCE",
+          "semester": 4
+        },
+        {
+          "name": "ESTRATÉGIA E DECISÃO BASEADA EM DADOS",
+          "semester": 4
+        },
+        {
+          "name": "STARTUP: PROJECT ONE",
+          "semester": 4
+        },
+        {
+          "name": "GOVERNANÇA CORPORATIVA E DE TI",
+          "semester": 4
+        },
+        {
+          "name": "INTELIGÊNCIA ARTIFICIAL APLICADA À GESTÃO",
+          "semester": 4
+        },
+        {
+          "name": "CONEXÃO HOMEM E SOCIEDADE",
+          "semester": 5
+        },
+        {
+          "name": "CIBERSEGURANÇA",
+          "semester": 5
+        },
+        {
+          "name": "PROCESSOS ÁGEIS & DESIGN DE NEGÓCIOS",
+          "semester": 5
+        },
+        {
+          "name": "CLOUD COMPUTING E DEVOPS ESTRATÉGICO",
+          "semester": 5
+        },
+        {
+          "name": "STARTUP: FINAL PROJECT",
+          "semester": 5
+        },
+        {
+          "name": "GESTÃO DO CONHECIMENTO ORGANIZACIONAL",
+          "semester": 5
+        }
+      ]
+    },
+    {
+      "id": "medicina-presencial",
+      "name": "Medicina",
+      "degree": "Bacharelado",
+      "modality": "Presencial",
+      "source_url": "https://facens.br/cursos/graduacao/medicina/",
+      "curriculum_source_url": "https://facens.br/cursos/graduacao/medicina/",
+      "curriculum_version": null,
+      "curriculum_status": "complete",
+      "subjects": [
+        {
+          "name": "Morfofisiologia I",
+          "semester": 1
+        },
+        {
+          "name": "Mecanismos Celulares e Moleculares I",
+          "semester": 1
+        },
+        {
+          "name": "Atenção Integral à Saúde I: Território e Indicadores",
+          "semester": 1
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais I",
+          "semester": 1
+        },
+        {
+          "name": "Habilidade Médicas I",
+          "semester": 1
+        },
+        {
+          "name": "Atividade Integradora I",
+          "semester": 1
+        },
+        {
+          "name": "Morfofisiologia II",
+          "semester": 2
+        },
+        {
+          "name": "Mecanismos Celulares e Moleculares II",
+          "semester": 2
+        },
+        {
+          "name": "Mecanismos de Defesa e Doença I",
+          "semester": 2
+        },
+        {
+          "name": "Atenção Integral à Saúde II: Vigilância em Saúde",
+          "semester": 2
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais II",
+          "semester": 2
+        },
+        {
+          "name": "Habilidade Médicas II",
+          "semester": 2
+        },
+        {
+          "name": "Atividade Integradora II",
+          "semester": 2
+        },
+        {
+          "name": "Morfofisiologia III",
+          "semester": 3
+        },
+        {
+          "name": "Mecanismos Celulares e Moleculares III",
+          "semester": 3
+        },
+        {
+          "name": "Mecanismos de Defesa e Doença II",
+          "semester": 3
+        },
+        {
+          "name": "Atenção Integral à Saúde III: Educação na Assistência e formação em saúde",
+          "semester": 3
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais III",
+          "semester": 3
+        },
+        {
+          "name": "Habilidade Médicas III",
+          "semester": 3
+        },
+        {
+          "name": "Desenvolvimento de Habilidades de Pesquisa I",
+          "semester": 3
+        },
+        {
+          "name": "Atividade Integradora III",
+          "semester": 3
+        },
+        {
+          "name": "Morfofisiologia IV",
+          "semester": 4
+        },
+        {
+          "name": "Neurociências I",
+          "semester": 4
+        },
+        {
+          "name": "Mecanismos de Defesa e Doença III",
+          "semester": 4
+        },
+        {
+          "name": "Princípios Terapêuticos I",
+          "semester": 4
+        },
+        {
+          "name": "Atenção Integral à Saúde IV: Desenvolvimento humano e social",
+          "semester": 4
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais IV",
+          "semester": 4
+        },
+        {
+          "name": "Habilidade Médicas IV",
+          "semester": 4
+        },
+        {
+          "name": "Atividade Integradora IV",
+          "semester": 4
+        },
+        {
+          "name": "Neurociências II",
+          "semester": 5
+        },
+        {
+          "name": "Mecanismos de Defesa e Doença IV",
+          "semester": 5
+        },
+        {
+          "name": "Princípios Terapêuticos II",
+          "semester": 5
+        },
+        {
+          "name": "Atenção Integral à Saúde V: Planejamento em saúde",
+          "semester": 5
+        },
+        {
+          "name": "Projeto Interdisciplinar I",
+          "semester": 5
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais V",
+          "semester": 5
+        },
+        {
+          "name": "Habilidade Médicas V",
+          "semester": 5
+        },
+        {
+          "name": "Gestão e Inovação em Saúde",
+          "semester": 5
+        },
+        {
+          "name": "Desenvolvimento de Habilidades em Pesquisa II",
+          "semester": 5
+        },
+        {
+          "name": "Atividade Integradora V",
+          "semester": 5
+        },
+        {
+          "name": "Princípios terapêuticos III",
+          "semester": 6
+        },
+        {
+          "name": "Atenção Integral à Saúde V: Planejamento em saúde",
+          "semester": 6
+        },
+        {
+          "name": "Projeto Interdisciplinar II",
+          "semester": 6
+        },
+        {
+          "name": "Atenção à Saúde Mental",
+          "semester": 6
+        },
+        {
+          "name": "Saúde do Adulto I",
+          "semester": 6
+        },
+        {
+          "name": "Saúde do Idoso I",
+          "semester": 6
+        },
+        {
+          "name": "Desenvolvimento de Habilidades em Pesquisa III",
+          "semester": 6
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais VI",
+          "semester": 6
+        },
+        {
+          "name": "Eletivo I",
+          "semester": 6
+        },
+        {
+          "name": "Saúde do Adulto II",
+          "semester": 7
+        },
+        {
+          "name": "Saúde do Idoso II",
+          "semester": 7
+        },
+        {
+          "name": "Saúde da criança e do adolescente I",
+          "semester": 7
+        },
+        {
+          "name": "Urgência e Emergência I",
+          "semester": 7
+        },
+        {
+          "name": "Saúde da Mulher",
+          "semester": 7
+        },
+        {
+          "name": "Atenção Integral à Saúde VII: Doenças crônicas não transmissíveis",
+          "semester": 7
+        },
+        {
+          "name": "Projeto Interdisciplinar III",
+          "semester": 7
+        },
+        {
+          "name": "Eletivo II",
+          "semester": 7
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais VII",
+          "semester": 7
+        },
+        {
+          "name": "Urgência e Emergência II",
+          "semester": 8
+        },
+        {
+          "name": "Saúde da Criança e do Adolescente II",
+          "semester": 8
+        },
+        {
+          "name": "Atenção Clínico- Cirúrgica Integrada",
+          "semester": 8
+        },
+        {
+          "name": "Atenção Integral à Saúde VIII: Ciclos da vida",
+          "semester": 8
+        },
+        {
+          "name": "Projeto Interdisciplinar IV",
+          "semester": 8
+        },
+        {
+          "name": "Carreira, Liderança e Novas Competências Profissionais VIII",
+          "semester": 8
+        },
+        {
+          "name": "Medicina de Família e Comunidade I",
+          "semester": 9
+        },
+        {
+          "name": "Clínica Médica I",
+          "semester": 9
+        },
+        {
+          "name": "Ginecologia e Obstetrícia I",
+          "semester": 9
+        },
+        {
+          "name": "Pediatria I",
+          "semester": 9
+        },
+        {
+          "name": "Medicina de Família e Comunidade II",
+          "semester": 10
+        },
+        {
+          "name": "Saúde Mental I",
+          "semester": 10
+        },
+        {
+          "name": "Clínica Médica II",
+          "semester": 10
+        },
+        {
+          "name": "Ginecologia e Obstetrícia II",
+          "semester": 10
+        },
+        {
+          "name": "Pediatria II",
+          "semester": 10
+        },
+        {
+          "name": "Medicina de Família e Comunidade III",
+          "semester": 11
+        },
+        {
+          "name": "Saúde Mental II",
+          "semester": 11
+        },
+        {
+          "name": "Urgência e Emergência III",
+          "semester": 11
+        },
+        {
+          "name": "Eletiva III",
+          "semester": 11
+        },
+        {
+          "name": "Clínica Cirúrgica I",
+          "semester": 11
+        },
+        {
+          "name": "Saúde Coletiva",
+          "semester": 12
+        },
+        {
+          "name": "Eletiva IV",
+          "semester": 12
+        },
+        {
+          "name": "Urgência e Emergência IV",
+          "semester": 12
+        },
+        {
+          "name": "Clínica Cirúrgica II",
+          "semester": 12
+        },
+        {
+          "name": "Clínica Médica III",
+          "semester": 12
+        }
+      ]
+    }
+  ]
+}

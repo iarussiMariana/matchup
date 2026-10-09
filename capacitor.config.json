@@ -1,0 +1,8 @@
+{
+  "appId": "com.spark.upx",
+  "appName": "MatchUp",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

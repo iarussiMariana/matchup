@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "build:web": "node tools/build-web.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "test:ui": "playwright test",
+    "sync:android": "npm run build:web && cap sync android"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.2",
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.0.0",
+    "@capacitor/share": "^8.0.0",
+    "pg": "^8.23.1"
+  }
+}

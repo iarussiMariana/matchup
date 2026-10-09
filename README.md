@@ -122,6 +122,10 @@ A campanha **3.3.3** aprovou **57/57 Node**; o inventário UI passou a **201 cen
 
 Na campanha anterior, a recarga offline da publicação foi validada no Chrome. No WebKit Windows, a navegação offline apresentou uma limitação do runner reproduzível com worker mínimo; a verificação publicada cobre cache e recarga controlada online. O Safari físico permanece pendente. Leia os limites de cada teste antes de interpretar os números como garantia de qualidade.
 
+## Histórico Git reconstruído
+
+O histórico foi reconstruído a partir de um snapshot em 65 commits temáticos. Isso **não recupera revisões antigas nem comprova autoria ou trabalho nas datas planejadas**. As tags anotadas `reconstruido/v0.1.0` até `reconstruido/v3.3.3` representam marcos da reconstrução, **não releases históricas testadas**. Os fontes mantêm sua versão real, lida do Android.
+
 ## 7. Onde continuar
 
 | Tema | Documento |

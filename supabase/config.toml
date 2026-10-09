@@ -1,0 +1,5 @@
+project_id = "spark-private-pilot"
+
+# Authorized for the private academic pilot; email ownership is not verified.
+[auth.email]
+enable_confirmations = false

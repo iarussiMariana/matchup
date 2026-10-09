@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MatchUp</string>
+    <string name="title_activity_main">MatchUp</string>
+    <string name="package_name">com.spark.upx</string>
+    <string name="custom_url_scheme">com.spark.upx</string>
+</resources>
